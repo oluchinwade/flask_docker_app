@@ -5,3 +5,4 @@ A raw SQL file is also included to help understand the project better before div
 Using the information above will aid in both visual and basic SQL comprehension.
 
 This project is still ongoing and the final readme file will be available once completed.
+
